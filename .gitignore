@@ -1,0 +1,7 @@
+*__pycache__
+slurm*
+.DS_Store
+.python-version
+checkpoints/
+data/
+scripts/

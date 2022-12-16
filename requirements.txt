@@ -1,0 +1,9 @@
+colorcet==3.0.1
+h5py==3.7.0
+numpy==1.23.5
+Pillow==9.3.0
+scikit_learn==1.2.0
+scipy==1.9.3
+timm==0.5.4
+torch==1.8.1
+torchvision==0.9.1
